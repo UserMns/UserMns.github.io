@@ -5,7 +5,7 @@ html,body{
   padding:0;
 }
 body{
-  background-image: url(zbg.jpg)
+  background-image: url('zbg.jpg')
 }
 /* c1 - c6 = bg of Fb
    f1 - f6 = fb icons
