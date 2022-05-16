@@ -1,50 +1,22 @@
-/*html,
-body {
-  height: 100%;
-  width: 100%;
-  margin: 0%;
-  padding: 0%;
-} */
-.man1 {
-  float:left;
+html,body{
+  height:100;
+  width:100%;
+  margin:0;
+  padding:0;
 }
-.ic {
-  height:30px;
-  width:30px;
+body{
+  background-image: url(zbg.jpg)
 }
-#man {
-  background-color: red;
+/* c1 - c6 = bg of Fb
+   f1 - f6 = fb icons
+*/
+#f1,#f2,#f3,#f4,#f5,#f6{
+  height:50px;
+  width:50px;
 }
-
-body {
-  background-image: url(zbg.jpg)}
-/* c1 - c6 = bg of Fbf1 - f6 = fb icons*/
-#f1,
-#f2,
-#f3,
-#f4,
-#f5,
-#f6 {
-  height: 30px;
-  width: 30px;
-  display: block;
-  margin: 0 auto;
-  position: relative;
-  top: 20%;
+#t_s{
+  color:white;
 }
-#t_s,
-#t_d {
-  color: white;
-}
-#c1,
-#c2,
-#c3,
-#c4,
-#c5,
-#c6 {
-  height: 50px;
-  width: 50px;
-  background-color: red;
-  display: block;
-  border-radius: 50%;
+#t_d{
+  color:white;
 }
