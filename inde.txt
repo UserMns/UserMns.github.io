@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>google</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+  <!-- while coding write thd ids and names and classes to css file by commenting also keep in sequence. -->
+
+<body>
+  <div>
+    <img src="zho.png" alt="a" />
+    <img src="zpr.png" alt="b" />
+    <img src="zta.png" alt="c" />
+    <img src="zme.png" alt="d" />
+    <img src="zgo.png" alt="google">
+  </div>
+  <div >
+    <p id="t_s">Search or type web address</p>
+    <img src="zmi.png" alt="06" />
+    <img src="zca.png" alt="07" />
+  </div>
+  <div class="hee">
+    <div id="c1"></div>
+    <div id="c2"></div>
+    <div id="c3"></div>
+    <div id="c4"></div>
+    <div id="c5"></div>
+    <div id="c6"></div>
+    <img id="f1"  src="zfb.png" alt="90" />
+    <img id="f2"  src="zfb.png" alt="91" />
+    <img id="f3"  src="zfb.png" alt="92" />
+    <img id="f4"  src="zfb.png" alt="93" />
+    <img id="f5"  src="zfb.png" alt="94" />
+    <img id="f6"  src="zfb.png" alt="95" />
+  </div>
+  <div >
+    <p id="t_d">Discover-off</p>
+    <img src="zse.png" alt="09" />
+  </div>
+</body>
+
+  </html>
